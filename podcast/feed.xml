@@ -33,7 +33,7 @@
       <itunes:author>Veselin Stanchev(vrstanchev)</itunes:author>
       <title>Episode 1: GNU Philosophy,Free Assembly Languages, GNU Assembler</title>
       <pubDate>Thu, 1 Jun 2023 21:00:00 GMT</pubDate>
-      <enclosure url="https://vrstanchev.github.io/asmarch/audio/episode1.mp3" type="audio/mpeg" length="34216300" />
+      <enclosure url="https://vrstanchev.github.io/asmarch/podcast/audio/episode1.mp3" type="audio/mpeg" length="34216300" />
       <itunes:duration>15:00</itunes:duration>
       <guid isPermaLink="false">cepod01</guid>
       <itunes:explicit>no</itunes:explicit>
