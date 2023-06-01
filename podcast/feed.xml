@@ -11,7 +11,7 @@
     <itunes:email>vrstanchev@gmail.com</itunes:email>
     <itunes:category text="Assembly Languages" />
     <image>
-      <url>https://vrstanchev.github.io/asmarch/asmarch.png</url>
+      <url>https://vrstanchev.github.io/asmarch/podcast/asmarch.png</url>
       <title>asmarch</title>
       <link>https://vrstanchev.github.io/asmarch/</link>
     </image>
@@ -22,12 +22,12 @@
     <itunes:keywords>assembly,asm, open-source, computer-architectures</itunes:keywords>
     <copyright>Veselin Stanchev 2023</copyright>
     <description>assembly,asm, open-source, computer-architectures</description>
-    <googleplay:image href="https://vrstanchev.github.io/asmarch/asmarch.png" />
+    <googleplay:image href="https://vrstanchev.github.io/asmarch/podcast/asmarch.png" />
     <language>en-us</language>
     <itunes:explicit>no</itunes:explicit>
     <pubDate>Thu, 1 Jun 2023 21:00:00 GMT</pubDate>
     <link>https://vrstanchev.github.io/asmarch/feed.xml</link>
-    <itunes:image href="https://vrstanchev.github.io/asmarch/asmarch.png" />
+    <itunes:image href="https://vrstanchev.github.io/asmarch/podcast/asmarch.png" />
     <item>
       <author>Veselin Stanchev(vrstanchev)</author>
       <itunes:author>Veselin Stanchev(vrstanchev)</itunes:author>
