@@ -4,6 +4,6 @@ Talk about assembly languages, open-source and computer architectures
 ## Episodes
 + Episode 1: GNU Philosophy,Free Assembly Languages, GNU Assembler
 
-  ### Info: 
+### Info: 
 Subscribe for the podcast: [asmarch](https://vrstanchev.github.io/asmarch/feed.xml).  
 About Me: [about](https://vrstanchev.github.io/vrstanchev).
