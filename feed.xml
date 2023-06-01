@@ -11,53 +11,37 @@
     <itunes:email>vrstanchev@gmail.com</itunes:email>
     <itunes:category text="Assembly Languages" />
     <image>
-      <url>https://rodydavis.github.io/podcast-player/img/icon.jpg</url>
-      <title>Creative Engineering</title>
-      <link>https://rodydavis.github.io/podcast-player/</link>
+      <url>https://vrstanchev.github.io/asmarch/asmarch.png</url>
+      <title>asmarch</title>
+      <link>https://vrstanchev.github.io/asmarch/</link>
     </image>
     <itunes:owner>
-      <itunes:name>Rody Davis</itunes:name>
-      <itunes:email>rody.davis.jr@gmail.com</itunes:email>
+      <itunes:name>Veselin Stanchev(vrstanchev)</itunes:name>
+      <itunes:email>vrstanchev@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:keywords>flutter,dart,github,vr,ar,web</itunes:keywords>
-    <copyright>Rody Davis Productions 2020</copyright>
-    <description>Exploring Flutter, VR, AR, Cross-Platform Projects</description>
-    <googleplay:image href="https://rodydavis.github.io/podcast-player/img/icon.jpg" />
+    <itunes:keywords>assembly,asm, open-source, computer-architectures</itunes:keywords>
+    <copyright>Veselin Stanchev 2023</copyright>
+    <description>assembly,asm, open-source, computer-architectures</description>
+    <googleplay:image href="https://vrstanchev.github.io/asmarch/asmarch.png" />
     <language>en-us</language>
     <itunes:explicit>no</itunes:explicit>
-    <pubDate>Mon, 13 Apr 2020 13:00:00 PDT</pubDate>
-    <link>https://rodydavis.github.io/podcast-player/feed.xml</link>
-    <itunes:image href="https://rodydavis.github.io/podcast-player/img/icon.jpg" />
+    <pubDate>Thu, 1 Jun 2023 21:00:00 GMT</pubDate>
+    <link>https://vrstanchev.github.io/asmarch/feed.xml</link>
+    <itunes:image href="https://vrstanchev.github.io/asmarch/asmarch.png" />
     <item>
-      <author>Rody Davis, Norbert Kozsir</author>
-      <itunes:author>Rody Davis, Norbert Kozsir</itunes:author>
-      <title>Flutter Desktop/Web and VR</title>
-      <pubDate>Mon, 13 Apr 2020 13:00:00 GMT</pubDate>
-      <enclosure url="https://rodydavis.github.io/podcast-player/audio/01-create-eng.mp3" type="audio/mpeg" length="34216300" />
-      <itunes:duration>54:08</itunes:duration>
+      <author>Veselin Stanchev(vrstanchev)</author>
+      <itunes:author>Veselin Stanchev(vrstanchev)</itunes:author>
+      <title>Episode 1: GNU Philosophy,Free Assembly Languages, GNU Assembler</title>
+      <pubDate>Thu, 1 Jun 2023 21:00:00 GMT</pubDate>
+      <enclosure url="https://vrstanchev.github.io/asmarch/audio/episode1.mp3" type="audio/mpeg" length="34216300" />
+      <itunes:duration>15:00</itunes:duration>
       <guid isPermaLink="false">cepod01</guid>
       <itunes:explicit>no</itunes:explicit>
       <description>
-Norbert Kozsir - @norbertkozsir
-
-https://twitter.com/norbertkozsir
-
-https://github.com/norbert515
-
-
-Rody Davis - @rodydavis
-
-https://twitter.com/rodydavis
-
-https://github.com/rodydavis
-
-https://youtube.com/rodydavis
-
-https://rodydavis.com
-
-Our podcast player: 
-
-https://rodydavis.github.io/podcast-player/
+Topic 1: GNU Philosophy
+Topic 2:Free Assembly Languages
+Topic 3:Free Assembly Languages        
+https://vrstanchev.github.io/asmarch/
         </description>
     </item>
   </channel>
