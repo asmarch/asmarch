@@ -1,6 +1,6 @@
 # Asmarch
 Talk about assembly languages, open-source and computer architectures
-![asmarch logo](asmarch.png "asmarch logo")
+![asmarch logo](asmarchpod.png "asmarch logo")
 ## Episodes
 + Episode 1: GNU Philosophy,Free Assembly Languages, GNU Assembler
 
