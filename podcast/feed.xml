@@ -28,6 +28,20 @@
     <pubDate>Thu, 1 Jun 2023 21:00:00 GMT</pubDate>
     <link>https://vrstanchev.github.io/asmarch/feed.xml</link>
     <itunes:image href="https://vrstanchev.github.io/asmarch/podcast/asmarchpod.png" />
+        <item>
+      <author>Veselin Stanchev(vrstanchev)</author>
+      <itunes:author>Veselin Stanchev(vrstanchev)</itunes:author>
+      <title>Introduction to asmarch podcast</title>
+      <pubDate>Thu, 6 Jun 2023 8:00:00 GMT</pubDate>
+      <enclosure url="https://vrstanchev.github.io/asmarch/podcast/audio/intro.mp3" type="audio/mpeg" length="34216300" />
+      <itunes:duration>15:00</itunes:duration>
+      <guid isPermaLink="false">cepod01</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+Introduction to asmarch podcast       
+https://vrstanchev.github.io/asmarch/
+        </description>
+    </item>
     <item>
       <author>Veselin Stanchev(vrstanchev)</author>
       <itunes:author>Veselin Stanchev(vrstanchev)</itunes:author>
@@ -40,7 +54,7 @@
       <description>
 Topic 1: GNU Philosophy
 Topic 2:Free Assembly Languages
-Topic 3:Free Assembly Languages        
+Topic 3:GNU Assembly Language        
 https://vrstanchev.github.io/asmarch/
         </description>
     </item>
